@@ -1,4 +1,3 @@
-@cfa560b9c219:c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313:{}
-$Create the main calculator.cpp file and initialize a CLI interface to take user input.
+@cfa560b9c219:915960885351d663c4f1226babbfd69f7b0cf3d26407331b5b29e6609ca4a360:c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313
+$Implement basic arithmetic operations (addition, subtraction, multiplication, division) in calculator.cpp.
 @
-
