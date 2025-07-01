@@ -1,19 +1,4 @@
-@fleetbot:c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313:{}
+@cfa560b9c219:c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313:{}
 $Create the main calculator.cpp file and initialize a CLI interface to take user input.
 @
 
-@fleetbot:af2d79688b30c24dd0b1b76fe3d6dcbe2c5161c2e51ca3c57da755fe1e2a03fc:{c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313}
-$Implement the addition and subtraction operations in calculator.cpp.
-@
-
-@Tanishs-MacBook-Air:bd99e5f9a1b08fd282bb5a6c43b7b28a9d4c7c64667a30a7037ed2fa3cf5eaf2:{c501889e5764dc579f6afcf1507f07cbaa9db45f3aac245e15aca60cda7f3313}
-$Implement the multiplication and division operations in calculator.cpp.
-@
-
-@Tanishs-MacBook-Air:cb7df83aa2c5dd2b2098e03c44e6ebf5ac887a3d5d5be2d8df3f1a5a9ef0088a:{bd99e5f9a1b08fd282bb5a6c43b7b28a9d4c7c64667a30a7037ed2fa3cf5eaf2}
-$Add error handling for division by zero and invalid input in the calculator CLI.
-@
-
-@Tanishs-MacBook-Air:e0c398d2c3fd95aa7c17d60a624b5a90ad16b504c15a04fa8323cd3016b8b40f:{cb7df83aa2c5dd2b2098e03c44e6ebf5ac887a3d5d5be2d8df3f1a5a9ef0088a}
-$Create a Makefile to build the calculator and include build instructions in README.md.
-@
